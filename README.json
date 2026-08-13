@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Network Learning Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-24T22:55:00Z",
+            "owner": "mikeroyal",
+            "repo": "Networking-Guide",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Networking Tool & Concepts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-24T22:55:00Z",
+            "owner": "mikeroyal",
+            "repo": "Networking-Guide",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network layers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-24T22:55:00Z",
+            "owner": "mikeroyal",
+            "repo": "Networking-Guide",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Protocols",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-24T22:55:00Z",
+            "owner": "mikeroyal",
+            "repo": "Networking-Guide",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtualization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-24T22:55:00Z",
+            "owner": "mikeroyal",
+            "repo": "Networking-Guide",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File systems & Storage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-24T22:55:00Z",
+            "owner": "mikeroyal",
+            "repo": "Networking-Guide",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization."
+    },
+    {
+      "description": "Back to the Top\nDistributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:19:09.865Z",
+    "original_repository": "mikeroyal/Networking-Guide",
+    "original_repository_sha": "74b1431b9c6a450d532cbe8f81740190eccc6294",
+    "enhanced_repository": "enhansome/enhansome-Networking-Guide",
+    "enhanced_repository_description": null,
+    "title": "Awesome Network Learning Resources with stars"
+  }
+}
