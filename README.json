@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.",
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nBack to the Top\nAWS Certified Security - Specialty Certification\nMicrosoft Certified: Azure Security Engineer Associate\nGoogle Cloud Certified Professional Cloud Security Engineer\nCisco Security Certifications\nThe Red Hat Certified Specialist in Security: Linux\nLinux Professional Institute LPIC-3 Enterprise Security Certification\nCybersecurity Training and Courses from IBM Skills\nCybersecurity Courses and Certifications by Offensive Security\nCitrix Certified Associate – Networking(CCA-N)\nCitrix Certified Professional – Virtualization(CCP-V)\nCCNP Routing and Switching\nCertified Information Security Manager(CISM)\nWireshark Certified Network Analyst (WCNA)\nJuniper Networks Certification Program Enterprise (JNCP)\nNetworking courses and specializations from Coursera\nNetwork & Security Courses from Udemy\nNetwork & Security Courses from edX",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266837469,
             "language": "Python",
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266837469,
             "language": "Python",
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266837469,
             "language": "Python",
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266837469,
             "language": "Python",
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266837469,
             "language": "Python",
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -80,24 +85,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266837469,
             "language": "Python",
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 119
+            "stars": 120
           }
         }
       ],
       "title": "A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization."
-    },
-    {
-      "description": "Back to the Top\nDistributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:44:51.356Z",
+    "last_updated": "2026-08-19T09:45:01.666Z",
     "original_repository": "mikeroyal/Networking-Guide",
     "original_repository_sha": "74b1431b9c6a450d532cbe8f81740190eccc6294",
     "enhanced_repository": "enhansome/enhansome-Networking-Guide",

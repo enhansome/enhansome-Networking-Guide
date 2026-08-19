@@ -10,17 +10,17 @@
 
 # Table of Contents
 
-1. [Network Learning Resources](https://github.com/mikeroyal/Networking-Guide#network-learning-resources) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+1. [Network Learning Resources](https://github.com/mikeroyal/Networking-Guide#network-learning-resources) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
-2. [Networking Tool & Concepts](https://github.com/mikeroyal/Networking-Guide#networking-tools--concepts) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+2. [Networking Tool & Concepts](https://github.com/mikeroyal/Networking-Guide#networking-tools--concepts) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
-3. [Network layers](https://github.com/mikeroyal/Networking-Guide#network-layers) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+3. [Network layers](https://github.com/mikeroyal/Networking-Guide#network-layers) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
-4. [Network Protocols](https://github.com/mikeroyal/Networking-Guide#network-protocols) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+4. [Network Protocols](https://github.com/mikeroyal/Networking-Guide#network-protocols) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
-5. [Virtualization](https://github.com/mikeroyal/Networking-Guide#virtualization) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+5. [Virtualization](https://github.com/mikeroyal/Networking-Guide#virtualization) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
-6. [File systems & Storage](https://github.com/mikeroyal/Networking-Guide#file-systems--storage) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+6. [File systems & Storage](https://github.com/mikeroyal/Networking-Guide#file-systems--storage) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/123559324-2602b800-d750-11eb-8ca5-7c9a86819f6d.png">
@@ -29,7 +29,7 @@
 
 # Awesome Network Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
 [AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
 
@@ -67,7 +67,7 @@
 
 # Networking Tools & Concepts
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
 [cURL](https://curl.se/) is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
@@ -83,13 +83,13 @@
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,430 | 🐛 331 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,432 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
-[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,214 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
+[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,215 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
-[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,717 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
+[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,718 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
-[Websocat](https://github.com/vi/websocat) ⭐ 8,662 | 🐛 158 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
+[Websocat](https://github.com/vi/websocat) ⭐ 8,664 | 🐛 158 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
 ```
 • Connection: In networking, a connection refers to pieces of related information that are transferred through a network. This generally infers that a connection is built before the data transfer (by following the procedures laid out in a protocol) and then is deconstructed at the at the end of the data transfer.
@@ -131,7 +131,7 @@ Some low level protocols are TCP, UDP, IP, and ICMP. Some familiar examples of a
 
 # Network Layers
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
 ```
 While networking is often discussed in terms of topology in a horizontal way, between hosts, its implementation is layered in a vertical fashion throughout a computer or network. This means is that there are multiple technologies and protocols that are built on top of each other in order for communication to function more easily. Each successive, higher layer abstracts the raw data a little bit more, and makes it simpler to use for applications and users. It also allows you to leverage lower layers in new ways without having to invest the time and energy to develop the protocols and applications that handle those types of traffic.
@@ -177,7 +177,7 @@ The communication takes place between peers network.
 
 # Network Protocols
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
 Networking works by piggybacks on a number of different protocols on top of each other. In this way, one piece of data can be transmitted using multiple protocols encapsulated within one another.
 
@@ -207,7 +207,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Virtualization
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -219,7 +219,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,227 | 🐛 160 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,229 | 🐛 161 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
@@ -233,11 +233,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,116 | 🐛 225 | 🌐 Rust | 📅 2026-08-17 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,121 | 🐛 226 | 🌐 Rust | 📅 2026-08-19 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
-[Xen](https://github.com/xen-project/xen) ⭐ 839 | 🐛 3 | 🌐 C | 📅 2026-08-17 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
+[Xen](https://github.com/xen-project/xen) ⭐ 839 | 🐛 3 | 🌐 C | 📅 2026-08-19 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
 
 [Ganeti](https://github.com/ganeti/ganeti) ⭐ 580 | 🐛 333 | 🌐 Python | 📅 2026-07-27 is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software. Once installed, the tool assumes management of the virtual instances (Xen DomU).
 
@@ -253,7 +253,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # File systems & Storage
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
 [NAS (Network Attached Storage)](https://www.synology.com/en-us/solution/what_is_nas) is an intelligent storage device connected to your home or office network. You can store all your family and colleagues' files on the NAS, from important documents to precious photos, music and video collections.
 
@@ -289,10 +289,10 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2022-01-24
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
