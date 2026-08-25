@@ -141,7 +141,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38446
+            "stars": 38449
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-04T12:36:56Z",
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10720
+            "stars": 10721
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-15T09:29:59Z",
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3230
+            "stars": 3231
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:42:00Z",
+            "last_commit": "2026-08-24T20:56:12Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6138
+            "stars": 6141
           }
         },
         {
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 51007072,
             "language": "C",
-            "last_commit": "2026-08-24T12:43:50Z",
+            "last_commit": "2026-08-24T16:03:50Z",
             "owner": "xen-project",
             "repo": "xen",
             "stars": 840
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:35.605Z",
+    "last_updated": "2026-08-25T06:34:35.820Z",
     "original_repository": "mikeroyal/Networking-Guide",
     "original_repository_id": 266837469,
     "original_repository_sha": "74b1431b9c6a450d532cbe8f81740190eccc6294",
