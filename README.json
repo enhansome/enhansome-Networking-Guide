@@ -108,7 +108,7 @@
             "archived": false,
             "id": 104416990,
             "language": "C++",
-            "last_commit": "2026-08-21T18:05:43Z",
+            "last_commit": "2026-08-26T04:38:33Z",
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 100
@@ -141,7 +141,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38450
+            "stars": 38449
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-04-08T10:04:34Z",
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6215
+            "stars": 6217
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-04T12:36:56Z",
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10721
+            "stars": 10722
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-15T09:29:59Z",
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3231
+            "stars": 3232
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-25T09:30:17Z",
+            "last_commit": "2026-08-26T09:50:26Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6142
+            "stars": 6146
           }
         },
         {
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 51007072,
             "language": "C",
-            "last_commit": "2026-08-24T16:03:50Z",
+            "last_commit": "2026-08-26T08:03:49Z",
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 840
+            "stars": 841
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:47:45.135Z",
+    "last_updated": "2026-08-26T09:53:49.307Z",
     "original_repository": "mikeroyal/Networking-Guide",
     "original_repository_id": 266837469,
     "original_repository_sha": "74b1431b9c6a450d532cbe8f81740190eccc6294",
