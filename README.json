@@ -108,7 +108,7 @@
             "archived": false,
             "id": 104416990,
             "language": "C++",
-            "last_commit": "2026-08-26T04:38:33Z",
+            "last_commit": "2026-08-26T21:33:15Z",
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 100
@@ -141,7 +141,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38449
+            "stars": 38460
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-15T09:29:59Z",
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3232
+            "stars": 3234
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-26T09:50:26Z",
+            "last_commit": "2026-08-27T10:13:32Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6146
+            "stars": 6151
           }
         },
         {
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 51007072,
             "language": "C",
-            "last_commit": "2026-08-26T08:03:49Z",
+            "last_commit": "2026-08-27T10:43:49Z",
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 841
+            "stars": 842
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-27T10:06:33Z",
             "owner": "ganeti",
             "repo": "ganeti",
-            "stars": 581
+            "stars": 582
           }
         }
       ],
@@ -290,9 +290,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:53:49.307Z",
-    "original_repository": "mikeroyal/Networking-Guide",
-    "original_repository_id": 266837469,
+    "last_updated": "2026-08-27T11:52:37.669Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 266837469,
+      "language": "Python",
+      "last_commit": "2022-01-24T22:55:00Z",
+      "owner": "mikeroyal",
+      "repo": "Networking-Guide",
+      "stars": 120
+    },
     "original_repository_sha": "74b1431b9c6a450d532cbe8f81740190eccc6294",
     "enhanced_repository": "enhansome/enhansome-Networking-Guide",
     "enhanced_repository_description": null,
