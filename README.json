@@ -15,7 +15,7 @@
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-01-24T22:55:00Z",
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 120
+            "stars": 121
           }
         }
       ],
@@ -141,7 +141,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38460
+            "stars": 38463
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-04T12:36:56Z",
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10722
+            "stars": 10723
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-13T10:17:56Z",
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8673
+            "stars": 8674
           }
         }
       ],
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-15T09:29:59Z",
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3234
+            "stars": 3233
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:13:32Z",
+            "last_commit": "2026-08-27T17:32:43Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6151
+            "stars": 6152
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:37.669Z",
+    "last_updated": "2026-08-27T19:48:23.746Z",
     "original_repository_info": {
       "archived": false,
       "id": 266837469,
@@ -298,7 +298,7 @@
       "last_commit": "2022-01-24T22:55:00Z",
       "owner": "mikeroyal",
       "repo": "Networking-Guide",
-      "stars": 120
+      "stars": 121
     },
     "original_repository_sha": "74b1431b9c6a450d532cbe8f81740190eccc6294",
     "enhanced_repository": "enhansome/enhansome-Networking-Guide",
