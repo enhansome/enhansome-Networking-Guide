@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         }
       ],
       "title": "A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization."
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 104416990,
             "language": "C++",
-            "last_commit": "2026-08-26T21:33:15Z",
+            "last_commit": "2026-08-27T19:53:15Z",
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "curl",
             "repo": "doh",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38463
-          }
+            "stars": 38465
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2026-04-08T10:04:34Z",
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6217
-          }
+            "stars": 6218
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-08-04T12:36:56Z",
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10723
-          }
+            "stars": 10726
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-08-13T10:17:56Z",
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8674
-          }
+            "stars": 8676
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         }
       ],
       "title": "Networking Tools & Concepts"
@@ -208,7 +220,8 @@
             "owner": "virt-manager",
             "repo": "virt-manager",
             "stars": 3233
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "moby",
             "repo": "hyperkit",
             "stars": 3713
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "intel",
             "repo": "gvt-linux",
             "stars": 516
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-27T17:32:43Z",
+            "last_commit": "2026-08-28T17:02:01Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6152
-          }
+            "stars": 6156
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -267,8 +283,9 @@
             "last_commit": "2026-08-27T10:43:49Z",
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 842
-          }
+            "stars": 843
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         },
         {
           "node_type": "item",
@@ -283,14 +300,15 @@
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-28T20:49:15.453Z"
         }
       ],
       "title": "Virtualization"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:48:23.746Z",
+    "last_updated": "2026-08-28T20:49:15.453Z",
     "original_repository_info": {
       "archived": false,
       "id": 266837469,
