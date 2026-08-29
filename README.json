@@ -326,7 +326,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
-            "open_issues": 335,
+            "open_issues": 336,
             "owner": "httpie",
             "repo": "cli",
             "stars": 38465,
@@ -525,7 +525,7 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-28T17:02:01Z",
+            "last_commit": "2026-08-29T10:12:24Z",
             "open_issues": 220,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:43.200Z",
+    "last_updated": "2026-08-29T14:25:17.931Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
