@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -229,7 +229,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -273,8 +273,8 @@
             "id": 104416990,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-30T09:41:14Z",
-            "open_issues": 19,
+            "last_commit": "2026-08-31T14:51:16Z",
+            "open_issues": 15,
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 99,
@@ -329,7 +329,7 @@
             "open_issues": 336,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38469,
+            "stars": 38475,
             "topics": [
               "api",
               "api-client",
@@ -371,7 +371,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6218,
+            "stars": 6217,
             "topics": [
               "cli",
               "curl",
@@ -398,7 +398,7 @@
             "open_issues": 42,
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10727,
+            "stars": 10728,
             "topics": [
               "cli",
               "curl",
@@ -427,7 +427,7 @@
             "open_issues": 158,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8676,
+            "stars": 8679,
             "topics": [
               "cli",
               "command-line",
@@ -466,7 +466,7 @@
             "open_issues": 164,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3235,
+            "stars": 3236,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -525,11 +525,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-29T10:12:24Z",
-            "open_issues": 221,
+            "last_commit": "2026-08-31T14:35:46Z",
+            "open_issues": 223,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6161,
+            "stars": 6168,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -551,11 +551,11 @@
             "id": 51007072,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T10:43:49Z",
+            "last_commit": "2026-08-31T08:03:49Z",
             "open_issues": 3,
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 844,
+            "stars": 845,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -573,7 +573,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-27T10:06:33Z",
-            "open_issues": 334,
+            "open_issues": 332,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 582,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:23:42.486Z",
+    "last_updated": "2026-08-31T17:01:55.220Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
@@ -605,7 +605,7 @@
       "open_issues": 1,
       "owner": "mikeroyal",
       "repo": "Networking-Guide",
-      "stars": 121,
+      "stars": 122,
       "topics": [
         "awesome",
         "awesome-list",
