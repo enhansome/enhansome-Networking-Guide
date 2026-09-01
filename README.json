@@ -273,7 +273,7 @@
             "id": 104416990,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-31T14:51:16Z",
+            "last_commit": "2026-09-01T13:38:54Z",
             "open_issues": 15,
             "owner": "curl",
             "repo": "curl-fuzzer",
@@ -329,7 +329,7 @@
             "open_issues": 336,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38475,
+            "stars": 38477,
             "topics": [
               "api",
               "api-client",
@@ -371,7 +371,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6217,
+            "stars": 6218,
             "topics": [
               "cli",
               "curl",
@@ -427,7 +427,7 @@
             "open_issues": 158,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8679,
+            "stars": 8681,
             "topics": [
               "cli",
               "command-line",
@@ -466,7 +466,7 @@
             "open_issues": 164,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3236,
+            "stars": 3237,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -525,11 +525,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-31T14:35:46Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-01T08:17:03Z",
+            "open_issues": 220,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6168,
+            "stars": 6171,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -551,7 +551,7 @@
             "id": 51007072,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T08:03:49Z",
+            "last_commit": "2026-09-01T09:53:49Z",
             "open_issues": 3,
             "owner": "xen-project",
             "repo": "xen",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:01:55.220Z",
+    "last_updated": "2026-09-01T14:06:43.928Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
