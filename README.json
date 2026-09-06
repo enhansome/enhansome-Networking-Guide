@@ -273,8 +273,8 @@
             "id": 104416990,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-05T09:24:01Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-05T23:41:38Z",
+            "open_issues": 11,
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 99,
@@ -329,7 +329,7 @@
             "open_issues": 337,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38485,
+            "stars": 38484,
             "topics": [
               "api",
               "api-client",
@@ -371,7 +371,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6220,
+            "stars": 6221,
             "topics": [
               "cli",
               "curl",
@@ -427,7 +427,7 @@
             "open_issues": 158,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8685,
+            "stars": 8687,
             "topics": [
               "cli",
               "command-line",
@@ -529,7 +529,7 @@
             "open_issues": 227,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6190,
+            "stars": 6191,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -573,7 +573,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-02T11:56:49Z",
-            "open_issues": 336,
+            "open_issues": 339,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 583,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:37:53.555Z",
+    "last_updated": "2026-09-06T12:51:04.281Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
