@@ -273,8 +273,8 @@
             "id": 104416990,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-11T10:35:31Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-12T22:23:06Z",
+            "open_issues": 12,
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 99,
@@ -329,7 +329,7 @@
             "open_issues": 338,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38503,
+            "stars": 38505,
             "topics": [
               "api",
               "api-client",
@@ -529,7 +529,7 @@
             "open_issues": 220,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6215,
+            "stars": 6217,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:49:06.291Z",
+    "last_updated": "2026-09-13T13:46:51.639Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
