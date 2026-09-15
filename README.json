@@ -329,7 +329,7 @@
             "open_issues": 338,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38511,
+            "stars": 38514,
             "topics": [
               "api",
               "api-client",
@@ -395,7 +395,7 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-04T12:36:56Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "asciimoo",
             "repo": "wuzz",
             "stars": 10732,
@@ -427,7 +427,7 @@
             "open_issues": 159,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8692,
+            "stars": 8693,
             "topics": [
               "cli",
               "command-line",
@@ -466,7 +466,7 @@
             "open_issues": 157,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3249,
+            "stars": 3250,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -525,11 +525,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-11T16:38:04Z",
-            "open_issues": 221,
+            "last_commit": "2026-09-15T12:43:51Z",
+            "open_issues": 224,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6224,
+            "stars": 6228,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -551,11 +551,11 @@
             "id": 51007072,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T18:37:49Z",
+            "last_commit": "2026-09-15T10:07:49Z",
             "open_issues": 3,
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 848,
+            "stars": 850,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:51:55.778Z",
+    "last_updated": "2026-09-15T14:18:16.216Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
