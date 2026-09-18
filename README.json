@@ -274,7 +274,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-17T08:50:10Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 99,
@@ -329,7 +329,7 @@
             "open_issues": 338,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38525,
+            "stars": 38526,
             "topics": [
               "api",
               "api-client",
@@ -398,7 +398,7 @@
             "open_issues": 41,
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10732,
+            "stars": 10735,
             "topics": [
               "cli",
               "curl",
@@ -427,7 +427,7 @@
             "open_issues": 159,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8691,
+            "stars": 8692,
             "topics": [
               "cli",
               "command-line",
@@ -525,11 +525,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-16T23:54:28Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-18T08:52:09Z",
+            "open_issues": 226,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6238,
+            "stars": 6241,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:15:24.504Z",
+    "last_updated": "2026-09-18T13:33:36.703Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
