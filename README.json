@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -229,7 +229,7 @@
             "open_issues": 1,
             "owner": "mikeroyal",
             "repo": "Networking-Guide",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -329,7 +329,7 @@
             "open_issues": 338,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38526,
+            "stars": 38531,
             "topics": [
               "api",
               "api-client",
@@ -466,7 +466,7 @@
             "open_issues": 158,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3252,
+            "stars": 3254,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -525,11 +525,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-18T08:52:09Z",
-            "open_issues": 226,
+            "last_commit": "2026-09-19T01:16:15Z",
+            "open_issues": 227,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6241,
+            "stars": 6243,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -572,8 +572,8 @@
             "id": 25163509,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-17T06:27:18Z",
-            "open_issues": 337,
+            "last_commit": "2026-09-18T22:25:38Z",
+            "open_issues": 333,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 586,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:33:36.703Z",
+    "last_updated": "2026-09-19T13:04:54.752Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
@@ -605,7 +605,7 @@
       "open_issues": 1,
       "owner": "mikeroyal",
       "repo": "Networking-Guide",
-      "stars": 122,
+      "stars": 123,
       "topics": [
         "awesome",
         "awesome-list",
