@@ -326,10 +326,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38570,
+            "stars": 38576,
             "topics": [
               "api",
               "api-client",
@@ -371,7 +371,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6220,
+            "stars": 6221,
             "topics": [
               "cli",
               "curl",
@@ -427,7 +427,7 @@
             "open_issues": 159,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8694,
+            "stars": 8695,
             "topics": [
               "cli",
               "command-line",
@@ -525,11 +525,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-23T13:34:18Z",
-            "open_issues": 226,
+            "last_commit": "2026-09-24T11:05:54Z",
+            "open_issues": 231,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6251,
+            "stars": 6254,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -573,7 +573,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-22T13:12:01Z",
-            "open_issues": 333,
+            "open_issues": 334,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 586,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:12:20.264Z",
+    "last_updated": "2026-09-24T14:10:28.178Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
