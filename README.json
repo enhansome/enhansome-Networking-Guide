@@ -326,10 +326,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
-            "open_issues": 337,
+            "open_issues": 341,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38586,
+            "stars": 38591,
             "topics": [
               "api",
               "api-client",
@@ -371,7 +371,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6222,
+            "stars": 6221,
             "topics": [
               "cli",
               "curl",
@@ -427,7 +427,7 @@
             "open_issues": 159,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8698,
+            "stars": 8700,
             "topics": [
               "cli",
               "command-line",
@@ -463,10 +463,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 158,
+            "open_issues": 159,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3258,
+            "stars": 3259,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -525,11 +525,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-26T09:58:10Z",
-            "open_issues": 229,
+            "last_commit": "2026-09-26T21:00:15Z",
+            "open_issues": 225,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6262,
+            "stars": 6263,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:43:35.294Z",
+    "last_updated": "2026-09-27T14:39:58.222Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
