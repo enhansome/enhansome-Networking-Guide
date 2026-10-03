@@ -10,17 +10,17 @@
 
 # Table of Contents
 
-1. [Network Learning Resources](https://github.com/mikeroyal/Networking-Guide#network-learning-resources) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+1. [Network Learning Resources](https://github.com/mikeroyal/Networking-Guide#network-learning-resources)
 
-2. [Networking Tool & Concepts](https://github.com/mikeroyal/Networking-Guide#networking-tools--concepts) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+2. [Networking Tool & Concepts](https://github.com/mikeroyal/Networking-Guide#networking-tools--concepts)
 
-3. [Network layers](https://github.com/mikeroyal/Networking-Guide#network-layers) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+3. [Network layers](https://github.com/mikeroyal/Networking-Guide#network-layers)
 
-4. [Network Protocols](https://github.com/mikeroyal/Networking-Guide#network-protocols) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+4. [Network Protocols](https://github.com/mikeroyal/Networking-Guide#network-protocols)
 
-5. [Virtualization](https://github.com/mikeroyal/Networking-Guide#virtualization) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+5. [Virtualization](https://github.com/mikeroyal/Networking-Guide#virtualization)
 
-6. [File systems & Storage](https://github.com/mikeroyal/Networking-Guide#file-systems--storage) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+6. [File systems & Storage](https://github.com/mikeroyal/Networking-Guide#file-systems--storage)
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/123559324-2602b800-d750-11eb-8ca5-7c9a86819f6d.png">
@@ -29,7 +29,7 @@
 
 # Awesome Network Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents)
 
 [AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
 
@@ -67,13 +67,13 @@
 
 # Networking Tools & Concepts
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents)
 
 [cURL](https://curl.se/) is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
 [cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 99 | 🐛 12 | 🌐 C++ | 📅 2026-10-02 is a quality assurance testing for the curl project.
 
-[DoH](https://github.com/curl/doh) ⭐ 431 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
+[DoH](https://github.com/curl/doh) ⭐ 430 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
 [Authelia](https://www.authelia.com/) is an open-source highly-available authentication server providing single sign-on capability and two-factor authentication to applications running behind [NGINX](https://nginx.org/en/).
 
@@ -131,7 +131,7 @@ Some low level protocols are TCP, UDP, IP, and ICMP. Some familiar examples of a
 
 # Network Layers
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents)
 
 ```
 While networking is often discussed in terms of topology in a horizontal way, between hosts, its implementation is layered in a vertical fashion throughout a computer or network. This means is that there are multiple technologies and protocols that are built on top of each other in order for communication to function more easily. Each successive, higher layer abstracts the raw data a little bit more, and makes it simpler to use for applications and users. It also allows you to leverage lower layers in new ways without having to invest the time and energy to develop the protocols and applications that handle those types of traffic.
@@ -177,7 +177,7 @@ The communication takes place between peers network.
 
 # Network Protocols
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents)
 
 Networking works by piggybacks on a number of different protocols on top of each other. In this way, one piece of data can be transmitted using multiple protocols encapsulated within one another.
 
@@ -207,7 +207,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Virtualization
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents)
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -233,7 +233,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,278 | 🐛 238 | 🌐 Rust | 📅 2026-10-02 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,278 | 🐛 243 | 🌐 Rust | 📅 2026-10-02 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -253,7 +253,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # File systems & Storage
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents)
 
 [NAS (Network Attached Storage)](https://www.synology.com/en-us/solution/what_is_nas) is an intelligent storage device connected to your home or office network. You can store all your family and colleagues' files on the NAS, from important documents to precious photos, music and video collections.
 
@@ -289,10 +289,10 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2022-01-24
+[Back to the Top](https://github.com/mikeroyal/Networking-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
