@@ -68,10 +68,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
-            "open_issues": 346,
+            "open_issues": 345,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38607,
+            "stars": 38606,
             "topics": [
               "api",
               "api-client",
@@ -169,7 +169,7 @@
             "open_issues": 159,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8704,
+            "stars": 8706,
             "topics": [
               "cli",
               "command-line",
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T23:59:20Z",
-            "open_issues": 243,
+            "last_commit": "2026-10-03T09:44:30Z",
+            "open_issues": 242,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6278,
+            "stars": 6280,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:53.831Z",
+    "last_updated": "2026-10-03T14:17:24.296Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
