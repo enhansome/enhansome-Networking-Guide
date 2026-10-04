@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "curl",
             "repo": "curl-fuzzer",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "curl",
               "fuzzer",
@@ -71,7 +71,7 @@
             "open_issues": 345,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38606,
+            "stars": 38681,
             "topics": [
               "api",
               "api-client",
@@ -205,10 +205,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3265,
+            "stars": 3267,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -229,7 +229,7 @@
             "open_issues": 53,
             "owner": "moby",
             "repo": "hyperkit",
-            "stars": 3711,
+            "stars": 3712,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-03T09:44:30Z",
-            "open_issues": 242,
+            "last_commit": "2026-10-04T13:39:59Z",
+            "open_issues": 240,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6280,
+            "stars": 6285,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -318,7 +318,7 @@
             "open_issues": 334,
             "owner": "ganeti",
             "repo": "ganeti",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "haskell",
               "kvm",
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:17:24.296Z",
+    "last_updated": "2026-10-04T14:47:05.327Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
