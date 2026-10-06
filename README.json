@@ -71,7 +71,7 @@
             "open_issues": 343,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38706,
+            "stars": 38720,
             "topics": [
               "api",
               "api-client",
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-05T18:04:54Z",
-            "open_issues": 245,
+            "last_commit": "2026-10-06T08:07:07Z",
+            "open_issues": 248,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6290,
+            "stars": 6294,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -293,7 +293,7 @@
             "id": 51007072,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T19:49:49Z",
+            "last_commit": "2026-10-06T11:04:49Z",
             "open_issues": 3,
             "owner": "xen-project",
             "repo": "xen",
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:20:45.369Z",
+    "last_updated": "2026-10-06T11:08:34.328Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
