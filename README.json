@@ -15,8 +15,8 @@
             "id": 104416990,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-12T18:53:27Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-13T12:42:04Z",
+            "open_issues": 12,
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 100,
@@ -45,7 +45,7 @@
             "open_issues": 6,
             "owner": "curl",
             "repo": "doh",
-            "stars": 430,
+            "stars": 432,
             "topics": [
               "dns-over-https",
               "doh",
@@ -71,7 +71,7 @@
             "open_issues": 348,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38754,
+            "stars": 38753,
             "topics": [
               "api",
               "api-client",
@@ -169,7 +169,7 @@
             "open_issues": 159,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8719,
+            "stars": 8717,
             "topics": [
               "cli",
               "command-line",
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-12T18:40:21Z",
-            "open_issues": 242,
+            "last_commit": "2026-10-13T16:36:45Z",
+            "open_issues": 248,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6322,
+            "stars": 6328,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -293,7 +293,7 @@
             "id": 51007072,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T17:21:49Z",
+            "last_commit": "2026-10-13T15:51:49Z",
             "open_issues": 4,
             "owner": "xen-project",
             "repo": "xen",
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:56:39.171Z",
+    "last_updated": "2026-10-13T16:54:24.066Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
