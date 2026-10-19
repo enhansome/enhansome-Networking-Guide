@@ -113,7 +113,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6219,
+            "stars": 6220,
             "topics": [
               "cli",
               "curl",
@@ -169,7 +169,7 @@
             "open_issues": 159,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8722,
+            "stars": 8723,
             "topics": [
               "cli",
               "command-line",
@@ -205,10 +205,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 169,
+            "open_issues": 170,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3282,
+            "stars": 3285,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -268,10 +268,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-10-17T13:23:31Z",
-            "open_issues": 232,
+            "open_issues": 236,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6387,
+            "stars": 6395,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -314,8 +314,8 @@
             "id": 25163509,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-17T07:11:59Z",
-            "open_issues": 331,
+            "last_commit": "2026-10-19T10:30:14Z",
+            "open_issues": 329,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 587,
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:12:07.576Z",
+    "last_updated": "2026-10-19T16:25:02.224Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
