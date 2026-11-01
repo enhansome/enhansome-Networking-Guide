@@ -15,8 +15,8 @@
             "id": 104416990,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-31T13:55:20Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-01T11:54:41Z",
+            "open_issues": 15,
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 100,
@@ -113,7 +113,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6220,
+            "stars": 6221,
             "topics": [
               "cli",
               "curl",
@@ -208,7 +208,7 @@
             "open_issues": 178,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3301,
+            "stars": 3302,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -250,7 +250,7 @@
             "open_issues": 88,
             "owner": "intel",
             "repo": "gvt-linux",
-            "stars": 515,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-31T00:38:09Z",
-            "open_issues": 201,
+            "last_commit": "2026-11-01T14:39:47Z",
+            "open_issues": 199,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6445,
+            "stars": 6450,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -297,7 +297,7 @@
             "open_issues": 4,
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 859,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -318,7 +318,7 @@
             "open_issues": 332,
             "owner": "ganeti",
             "repo": "ganeti",
-            "stars": 588,
+            "stars": 589,
             "topics": [
               "haskell",
               "kvm",
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:16:18.592Z",
+    "last_updated": "2026-11-01T15:57:27.237Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
@@ -347,7 +347,7 @@
       "open_issues": 1,
       "owner": "mikeroyal",
       "repo": "Networking-Guide",
-      "stars": 124,
+      "stars": 125,
       "topics": [
         "awesome",
         "awesome-list",
