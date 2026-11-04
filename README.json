@@ -45,7 +45,7 @@
             "open_issues": 6,
             "owner": "curl",
             "repo": "doh",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "dns-over-https",
               "doh",
@@ -71,7 +71,7 @@
             "open_issues": 362,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38688,
+            "stars": 38695,
             "topics": [
               "api",
               "api-client",
@@ -113,7 +113,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6221,
+            "stars": 6220,
             "topics": [
               "cli",
               "curl",
@@ -140,7 +140,7 @@
             "open_issues": 42,
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10740,
+            "stars": 10741,
             "topics": [
               "cli",
               "curl",
@@ -169,7 +169,7 @@
             "open_issues": 161,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8742,
+            "stars": 8744,
             "topics": [
               "cli",
               "command-line",
@@ -205,10 +205,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 178,
+            "open_issues": 179,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3306,
+            "stars": 3308,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-03T16:25:24Z",
+            "last_commit": "2026-11-04T15:25:23Z",
             "open_issues": 199,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6460,
+            "stars": 6461,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -293,11 +293,11 @@
             "id": 51007072,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T16:47:50Z",
+            "last_commit": "2026-11-04T16:52:51Z",
             "open_issues": 4,
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 861,
+            "stars": 862,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -314,8 +314,8 @@
             "id": 25163509,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-25T15:58:56Z",
-            "open_issues": 332,
+            "last_commit": "2026-11-04T13:31:35Z",
+            "open_issues": 331,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 589,
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:58:50.617Z",
+    "last_updated": "2026-11-04T17:08:03.800Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
