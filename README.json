@@ -71,7 +71,7 @@
             "open_issues": 362,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38696,
+            "stars": 38698,
             "topics": [
               "api",
               "api-client",
@@ -169,7 +169,7 @@
             "open_issues": 161,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8750,
+            "stars": 8751,
             "topics": [
               "cli",
               "command-line",
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-06T16:06:21Z",
-            "open_issues": 211,
+            "last_commit": "2026-11-07T10:53:03Z",
+            "open_issues": 202,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6475,
+            "stars": 6483,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -314,8 +314,8 @@
             "id": 25163509,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-05T21:01:07Z",
-            "open_issues": 331,
+            "last_commit": "2026-11-07T12:04:39Z",
+            "open_issues": 330,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 590,
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:42:45.669Z",
+    "last_updated": "2026-11-07T15:37:17.739Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
@@ -347,7 +347,7 @@
       "open_issues": 1,
       "owner": "mikeroyal",
       "repo": "Networking-Guide",
-      "stars": 125,
+      "stars": 126,
       "topics": [
         "awesome",
         "awesome-list",
