@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-06T01:52:00Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "curl",
             "repo": "curl-fuzzer",
             "stars": 100,
@@ -68,10 +68,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
-            "open_issues": 362,
+            "open_issues": 361,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38698,
+            "stars": 38700,
             "topics": [
               "api",
               "api-client",
@@ -140,7 +140,7 @@
             "open_issues": 42,
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10741,
+            "stars": 10742,
             "topics": [
               "cli",
               "curl",
@@ -205,7 +205,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "virt-manager",
             "repo": "virt-manager",
             "stars": 3306,
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-07T10:53:03Z",
-            "open_issues": 202,
+            "last_commit": "2026-11-08T14:05:49Z",
+            "open_issues": 198,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6483,
+            "stars": 6487,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:37:17.739Z",
+    "last_updated": "2026-11-08T15:55:16.817Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
