@@ -71,7 +71,7 @@
             "open_issues": 362,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38714,
+            "stars": 38720,
             "topics": [
               "api",
               "api-client",
@@ -169,7 +169,7 @@
             "open_issues": 158,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8756,
+            "stars": 8757,
             "topics": [
               "cli",
               "command-line",
@@ -208,7 +208,7 @@
             "open_issues": 176,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3308,
+            "stars": 3309,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -267,11 +267,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-14T02:45:08Z",
-            "open_issues": 208,
+            "last_commit": "2026-11-15T10:40:48Z",
+            "open_issues": 204,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6522,
+            "stars": 6528,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:44:32.177Z",
+    "last_updated": "2026-11-15T16:17:05.302Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
