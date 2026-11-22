@@ -71,7 +71,7 @@
             "open_issues": 364,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38724,
+            "stars": 38729,
             "topics": [
               "api",
               "api-client",
@@ -113,7 +113,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6222,
+            "stars": 6223,
             "topics": [
               "cli",
               "curl",
@@ -140,7 +140,7 @@
             "open_issues": 42,
             "owner": "asciimoo",
             "repo": "wuzz",
-            "stars": 10745,
+            "stars": 10746,
             "topics": [
               "cli",
               "curl",
@@ -205,10 +205,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3313,
+            "stars": 3314,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:15.453Z"
@@ -268,10 +268,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-11-21T14:53:12Z",
-            "open_issues": 195,
+            "open_issues": 197,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6554,
+            "stars": 6557,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:44:12.129Z",
+    "last_updated": "2026-11-22T17:03:46.113Z",
     "original_repository_info": {
       "archived": false,
       "description": " A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.",
